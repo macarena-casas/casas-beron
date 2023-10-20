@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1697759015 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"colores.h"
+	"usuario.h"
+	"menujefe.h"
+	"menuvendedor.h"
+
+1697700381 c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\muebles.h
+	<iostream>
+	"prototipos.h"
+
+1697472751 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\muebles.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"muebles.h"
+
+1697760657 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\ropero.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"ropero.h"
+
+1697760843 c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\ropero.h
+	"muebles.h"
+
+1697764405 c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\prototipos.h
+	"colores.h"
+	"usuario.h"
+	"muebles.h"
+	"submenuvendedor.h"
+	"submenu.h"
+
+1697760657 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\fglobales.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	"prototipos.h"
+
+1697757313 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\comoda.cpp
+	<iostream>
+	"comoda.h"
+
+1697732087 c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\comoda.h
+	"muebles.h"
+
+1697695969 c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\mesadeluz.h
+	"muebles.h"
+	"prototipos.h"
+
+1697757151 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\mesadeluz.cpp
+	<iostream>
+	"mesadeluz.h"
+	"colores.h"
+
+1697757395 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\bajomesada.cpp
+	<iostream>
+	"bajomesada.h"
+
+1697695976 c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\bajomesada.h
+	"muebles.h"
+
+1697030963 c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\menu.h
+	"submenu.h"
+
+1697030185 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\menu.cpp
+	<iostream>
+	"menu.h"
+	"colores.h"
+
+1697755310 c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\submenu.h
+	"colores.h"
+	"muebles.h"
+	"ropero.h"
+	"comoda.h"
+	"modulares.h"
+	"mesadeluz.h"
+	"bajomesada.h"
+
+1697759616 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\submenu.cpp
+	<cstdio>
+	<cstdlib>
+	"submenu.h"
+
+1695271085 c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\colores.h
+
+1697757210 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\modulares.cpp
+	<iostream>
+	"modulares.h"
+	"colores.h"
+
+1697695900 c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\modulares.h
+	"muebles.h"
+	"prototipos.h"
+
+1697700491 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\menuvendedor.cpp
+	<iostream>
+	"menuvendedor.h"
+
+1697730080 c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\menuvendedor.h
+	"colores.h"
+	"submenuvendedor.h"
+	"usuario.h"
+
+1697759717 c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\submenuvendedor.h
+	"colores.h"
+	"muebles.h"
+	"ropero.h"
+	"comoda.h"
+	"modulares.h"
+	"mesadeluz.h"
+	"bajomesada.h"
+
+1697759717 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\submenuvendedor.cpp
+	<cstdio>
+	<cstdlib>
+	"submenuvendedor.h"
+
+1697765377 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\menujefe.cpp
+	<iostream>
+	<cstdio>
+	"menuvendedor.h"
+	"menujefe.h"
+
+1697689418 c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\menujefe.h
+	"colores.h"
+	"submenu.h"
+	"usuario.h"
+
+1697247654 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\usuario.cpp
+	<iostream>
+	<cstring>
+	"colores.h"
+	"usuario.h"
+
+1697247369 c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\usuario.h
+
+1697758867 source:c:\users\usurio\desktop\trabajo laboratorio integrador\trabajo integrador\menuvendedorr.cpp
+	<iostream>
+	<cstdio>
+	"menuvendedor.h"
+
